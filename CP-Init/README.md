@@ -5,7 +5,7 @@
 - **Implement a way** to **change the color of the text** as well
 
 
-![SwiftiOS](https://imgur.com/a/ZLnuaQA)
+![SwiftiOS](https://i.imgur.com/a/ZLnuaQA.gif)
 ---
 
 *Created by Jose Diaz*
