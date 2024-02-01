@@ -4,9 +4,13 @@
 - **Feel free to play around** with other elements, such as **image views, textfields, etc.**
 - **Implement a way** to **change the color of the text** as well
 
+
+![SwiftiOS](https://imgur.com/a/ZLnuaQA)
 ---
 
 *Created by Jose Diaz*
+
+
 
 ## App Brainstorming
 
