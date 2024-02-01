@@ -24,6 +24,7 @@
 		23F687462B6C2762003A5200 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23F687492B6C2762003A5200 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23F6874B2B6C2762003A5200 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23F687512B6C2C07003A5200 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		23F6873C2B6C2761003A5200 /* CP-Init */ = {
 			isa = PBXGroup;
 			children = (
+				23F687512B6C2C07003A5200 /* README.md */,
 				23F6873D2B6C2761003A5200 /* AppDelegate.swift */,
 				23F6873F2B6C2761003A5200 /* SceneDelegate.swift */,
 				23F687412B6C2761003A5200 /* ViewController.swift */,
