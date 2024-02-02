@@ -4,7 +4,7 @@
 - **Feel free to play around** with other elements, such as **image views, textfields, etc.**
 - **Implement a way** to **change the color of the text** as well
 
-![](https://i.imgur.com/ZLnuaQA.gif)
+![]([Imgur](https://imgur.com/cGkbOTx))
 ---
 
 *Created by Jose Diaz*
