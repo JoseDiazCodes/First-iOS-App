@@ -41,6 +41,7 @@
 		23F687312B6C2761003A5200 = {
 			isa = PBXGroup;
 			children = (
+				23F687512B6C2C07003A5200 /* README.md */,
 				23F6873C2B6C2761003A5200 /* CP-Init */,
 				23F6873B2B6C2761003A5200 /* Products */,
 			);
@@ -57,7 +58,6 @@
 		23F6873C2B6C2761003A5200 /* CP-Init */ = {
 			isa = PBXGroup;
 			children = (
-				23F687512B6C2C07003A5200 /* README.md */,
 				23F6873D2B6C2761003A5200 /* AppDelegate.swift */,
 				23F6873F2B6C2761003A5200 /* SceneDelegate.swift */,
 				23F687412B6C2761003A5200 /* ViewController.swift */,
