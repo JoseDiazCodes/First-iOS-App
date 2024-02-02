@@ -4,7 +4,8 @@
 - **Feel free to play around** with other elements, such as **image views, textfields, etc.**
 - **Implement a way** to **change the color of the text** as well
 
-![]([Imgur](https://i.imgur.com/opn16Ak.gif))
+![Description of the image](https://i.imgur.com/opn16Ak.gif "Optional Title")
+
 ---
 
 *Created by Jose Diaz*
